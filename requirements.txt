@@ -1,6 +1,6 @@
 astroid==2.0.4
 certifi==2018.11.29
-Django==2.1.7
+Django==2.2.24
 django-cors-headers==2.4.0
 django-filter==2.1.0
 djangorestframework==3.9.1
